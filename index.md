@@ -1,6 +1,6 @@
 # Trucos BugBounty DragonJAR (HackMadrid%27)
 
-#### Plataformas
+## Plataformas
 * [Hackerone](https://www.hackerone.com/) - La mas activa
 * [Bugcrowd](https://www.bugcrowd.com/) - Segunda mas activa
 * [YesWeHack](https://www.yeswehack.com/)
@@ -10,14 +10,14 @@
 * [HackerProof](https://hackenproof.com/)
 * [Intigriti](https://www.intigriti.com/)
 
-#### Gamificacion
+## Gamificacion
 Puntos por reportes
 
-#### Errores al empezar
+## Errores al empezar
 * Correr antes de andar
 * Todas la plataformas a la vez (centrarse en 1 -Hackerone vs Bugcrowd-)
 
-#### Trucos
+## Trucos
 * Plataforma o Compañia directamente pero no las 2
 * Mejor en programas nuevos ya que tienen mas fallos
 * Campañas con mas scope y mas años porque tienen menos gente buscando debido a la antiguedad
@@ -33,9 +33,9 @@ Puntos por reportes
 * Estar atento a las actualizaciones en Hackerone (Visualping de hackerone) para nuevas alertas
 * Firebounty en YesWeHack --> ultimos cambios
 
-#### Manos a la obra
+## Manos a la obra
 
-##### 1. Enumeracion (Foto 6)
+### 1. Enumeracion (Foto 6)
 - Dominios, subdominios, Aplicaciones, Paginas Secundaria
 - [Burpsuite Scan](https://portswigger.net/web-security) - Web vulnerability scanner
 - [Shodan](https://www.shodan.io/)
@@ -74,22 +74,22 @@ Puntos por reportes
 - [SimplyEmail ](https://github.com/SimplySecurity/SimplyEmail) -  Email recon made fast and easy
 - [Ted teaming toolkit Colletion](https://0xsp.com/offensive/red-teaming-toolkit-collection) - Red Teaming/Adversary Simulation Toolkit 
 
-##### 2. Depuracion
+### 2. Depuracion
 - Cuales Responden
 - Que tienen?
 
-##### 3. Fuzzing
+### 3. Fuzzing
 - Carpetas abandonadas, etc...
 - [wfuzz](https://github.com/xmendez/wfuzz) - replaces any reference to the FUZZ keyword by the value of a given payload
 
-##### 4. Objetivio Definido y Filtrado
+### 4. Objetivio Definido y Filtrado
 - Fallos de seguridad en aplicaciones web
 
-##### 5. Servicios en la nube para automatizar tareas (Foto 4)
+### 5. Servicios en la nube para automatizar tareas (Foto 4)
 - Digital Ocean --> 100$ gratis en foto 
 - [Kali Nube] --> @JIIturrioz en twitter
 
-##### 6. Que Reportar (Foto 3)
+### 6. Que Reportar (Foto 3)
 - Cross-Site Scripting (XSS)
 - Improper Authentication
 - Information Disclosure
@@ -101,7 +101,7 @@ Puntos por reportes
 - Improper Access Control
 - Cross Site Request Forgery
 
-##### 7. Como reportar
+### 7. Como reportar
 - Que no sean tonterias
 - Titulos descriptivos
 - Bien explicado en ingles
@@ -109,18 +109,18 @@ Puntos por reportes
 - Video explicativo si es necesario
 - Impacto del fallo
 
-##### 8. Y despues...
+### 8. Y despues...
 - Seguimiento de los reportes
 - Luchar por tus reportes
 - Ser amable con el que revisa (triagger)
 - Validar si el problema fue reparado, para asi reclamarlo!
 
-##### 9. Ultimos Tips
+### 9. Ultimos Tips
 - Utilizar Espacios y horarios para la tarea
 - Automatizar TODO lo posible (sobre todo enumeracion)
 - Tener cuidado con la ANSIEDAD
 
-#### Recursos (Fotos 1 y 2)
+## Recursos (Fotos 1 y 2)
 * [List of bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html) - **VIP**
 * [JHaddix - The Bug Hunters Methodology V3(ish)](https://www.youtube.com/watch?v=Qw1nNPiH_Go) - **VIP**
 * [DrangonJar Formacion](http://dragonjar.org/formacion) -  Formacion de 3 horas
@@ -134,7 +134,7 @@ Puntos por reportes
 * #bugbounty en RRSS
 * hacker101.com
 
-#### Canales de Youtube
+## Canales de Youtube
 * [Vicor Garcia](https://www.youtube.com/channel/UCjNHFaBm_0-Mo749MB3A9cQ/videos)
 * [Julio Ureña](https://www.youtube.com/channel/UC2o1vzpUIvgf0VMJIMKZ_rQ/videos)
 * [S4vitar](https://www.youtube.com/channel/UCNHWpNqiM8yOQcHXtsluD7Q/videos)
