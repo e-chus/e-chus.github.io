@@ -133,6 +133,28 @@ Puntos por reportes
 * Reportes resueltos de las plataformas (Disclosure)
 * #bugbounty en RRSS
 * hacker101.com
+* [OWASP TOP 10](https://owasp.org/www-project-top-ten/)
+* [Programas BB Atractivos](https://www.welivesecurity.com/la-es/2017/03/10/5-programas-de-bug-bounty-atractivos/)
+
+## Otros Recursos
+* https://hackingd0.blogspot.com/2017/12/todas-nuestras-clases.html
+* https://ss64.com/
+* https://s4vitar.github.io/*
+* http://www.h1rd.com/index.html
+* https://thehackerway.com/2019/03/04/seguridad-informatica-en-50-dias-your-hacker-way/
+* https://www.offensiveosint.io/offensive-osint-introduction/
+* https://www.offensiveosint.io/offensive-osint-s01e01-osint-rdp/
+ 
+## Best Tools
+* burpsuite (VIP)
+* nahamsec bash script lazzyrecord (recon, dirsearch)
+* domained (restepo)
+
+## los BB más faciles (ara empezar)
+* Inyección sql (EJ: poniendo una comilla)
+* Default credentials (EJ: admin/admin)
+* todnomnom persoa BB github --> way back urls  https://twitter.com/tomnomnom
+* leer el manual de la aplicacion o ver los videos de explicacion intuye --> usuario/usuario
 
 ## Canales de Youtube
 * [Vicor Garcia](https://www.youtube.com/channel/UCjNHFaBm_0-Mo749MB3A9cQ/videos)
