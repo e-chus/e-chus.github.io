@@ -150,11 +150,14 @@ Puntos por reportes
 * nahamsec bash script lazzyrecord (recon, dirsearch)
 * domained (restepo)
 
-## los BB más faciles (ara empezar)
+## los BB más faciles (para empezar)
 * Inyección sql (EJ: poniendo una comilla)
 * Default credentials (EJ: admin/admin)
 * todnomnom persoa BB github --> way back urls  https://twitter.com/tomnomnom
 * leer el manual de la aplicacion o ver los videos de explicacion intuye --> usuario/usuario
+
+## Enlaces compartidos en el #ForoBugbounty del #C0r0n4CON (VIP)
+* [C0r0n4CON](https://pastebin.com/QsRP9xrS)
 
 ## Canales de Youtube
 * [Vicor Garcia](https://www.youtube.com/channel/UCjNHFaBm_0-Mo749MB3A9cQ/videos)
