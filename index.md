@@ -123,6 +123,7 @@ Puntos por reportes
 ## Recursos (Fotos 1 y 2)
 * [List of bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html) - **VIP**
 * [JHaddix - The Bug Hunters Methodology V3(ish)](https://www.youtube.com/watch?v=Qw1nNPiH_Go) - **VIP**
+* [Intro al Bug Bounty by saamux - L4tin-HTB](https://www.youtube.com/watch?v=iVPwe0X0CT0&feature=youtu.be) - **VIP**
 * [DrangonJar Formacion](http://dragonjar.org/formacion) -  Formacion de 3 horas
 * [Web Security Academy](https://portswigger.net/web-security)
 * [ExploitingBooks](https://github.com/hdbreaker/ExploitingBooks)
