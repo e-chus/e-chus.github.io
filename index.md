@@ -124,6 +124,7 @@ Puntos por reportes
 * [List of bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html) - **VIP**
 * [JHaddix - The Bug Hunters Methodology V3(ish)](https://www.youtube.com/watch?v=Qw1nNPiH_Go) - **VIP**
 * [Intro al Bug Bounty by saamux - L4tin-HTB](https://www.youtube.com/watch?v=iVPwe0X0CT0&feature=youtu.be) - **VIP**
+* [secjuice - NON-PROFIT INFOSEC GOODNESS](https://www.secjuice.com/tag/technical/)
 * [¿Cómo iniciar en Seguridad Informática / Hacking Ético?](https://www.dragonjar.org/como-iniciar-en-seguridad-informatica-hacking-etico.xhtml)
 * [DrangonJar Formacion](http://dragonjar.org/formacion) -  Formacion de 3 horas
 * [Web Security Academy](https://portswigger.net/web-security)
