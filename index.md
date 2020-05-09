@@ -125,6 +125,7 @@ Puntos por reportes
 * [JHaddix - The Bug Hunters Methodology V3(ish)](https://www.youtube.com/watch?v=Qw1nNPiH_Go) - **VIP**
 * [Intro al Bug Bounty by saamux - L4tin-HTB](https://www.youtube.com/watch?v=iVPwe0X0CT0&feature=youtu.be) - **VIP**
 * [secjuice - NON-PROFIT INFOSEC GOODNESS](https://www.secjuice.com/tag/technical/)
+* [OSCP path TryHackMe](https://medium.com/@wisdomgoody/review-oscp-path-tryhackme-e846c01ce47)
 * [¿Cómo iniciar en Seguridad Informática / Hacking Ético?](https://www.dragonjar.org/como-iniciar-en-seguridad-informatica-hacking-etico.xhtml)
 * [DrangonJar Formacion](http://dragonjar.org/formacion) -  Formacion de 3 horas
 * [Web Security Academy](https://portswigger.net/web-security)
